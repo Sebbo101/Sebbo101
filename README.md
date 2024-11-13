@@ -1,5 +1,13 @@
 # My Personal GitHub Repository!
 
+Welcome to my personal GitHub repository! My name is Seb and I am from the Netherlands.
+
+I just started my coding journey and I aim to learn different languages. I am currently following courses on [Datacamp.com](https://app.datacamp.com/)
+Feel free to reach out to me in any way shape or form. See you around!
+
+Kind regards,
+
+Seb
 <!--
 **Sebbo101/Sebbo101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
