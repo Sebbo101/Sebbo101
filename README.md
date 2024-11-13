@@ -2,7 +2,7 @@
 
 Welcome to my personal GitHub repository! My name is Seb and I am from the Netherlands.
 
-I just started my coding journey and I aim to learn different languages. I am currently following courses on [Datacamp.com](https://app.datacamp.com/)
+I just started my coding journey and I aim to learn different languages. I am currently following beginner python courses on [Datacamp.com](https://app.datacamp.com/)
 Feel free to reach out to me in any way shape or form. See you around!
 
 Kind regards,
